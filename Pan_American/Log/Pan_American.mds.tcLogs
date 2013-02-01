@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="folders">
+			<Node name="folders"/>
+		</Node>
+		<Node name="logs">
+			<Node name="log0">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="41305.7024705093"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="key" type="S" value="{116DBA90-5EBF-462A-96A4-4E84317B2C89}"/>
+				<Prp name="nameofroot" type="S" value="Pan_American"/>
+				<Prp name="relpath" type="S" value="1_31_2013_4_51 PM_33_413\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log1">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="41305.7036104282"/>
+				<Prp name="description" type="S" value="Pan_American"/>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="key" type="S" value="{87B5BF62-B3A1-49F0-B1F0-ECDCFD1A9386}"/>
+				<Prp name="nameofroot" type="S" value="Pan_American"/>
+				<Prp name="relpath" type="S" value="1_31_2013_4_53 PM_11_911\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log2">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="41305.7065646644"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="key" type="S" value="{E66127B5-DC5D-4DA8-86AB-34DEC1A1AE22}"/>
+				<Prp name="nameofroot" type="S" value="Pan_American"/>
+				<Prp name="relpath" type="S" value="1_31_2013_4_57 PM_27_157\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log3">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="41305.7072810532"/>
+				<Prp name="description" type="S" value="Pan_American"/>
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="key" type="S" value="{AAEBB116-9BD2-4755-AC7C-E64570E85BD9}"/>
+				<Prp name="nameofroot" type="S" value="Pan_American"/>
+				<Prp name="relpath" type="S" value="1_31_2013_4_58 PM_29_13\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log4">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="41305.7097730556"/>
+				<Prp name="description" type="S" value="Pan_American"/>
+				<Prp name="index" type="I" value="4"/>
+				<Prp name="key" type="S" value="{BA6EE550-B660-4B2D-9F08-D052149F3E28}"/>
+				<Prp name="nameofroot" type="S" value="Pan_American"/>
+				<Prp name="relpath" type="S" value="1_31_2013_5_02 PM_04_352\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log5">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="41305.7142086806"/>
+				<Prp name="description" type="S" value="Pan_American"/>
+				<Prp name="index" type="I" value="5"/>
+				<Prp name="key" type="S" value="{989593F1-C37F-4D97-94DA-AC8B348B2D59}"/>
+				<Prp name="nameofroot" type="S" value="Pan_American"/>
+				<Prp name="relpath" type="S" value="1_31_2013_5_08 PM_27_572\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+		</Node>
+		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
+		<Prp name="version" type="S" value="7.0"/>
+	</Node>
+</Nodes>

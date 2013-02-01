@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="logs">
+				<Prp name="key" type="S" value="{FAAAF541-1C35-4520-A0B8-5903A952D267}"/>
+				<Prp name="relpath" type="S" value="Log"/>
+			</Node>
+			<Node name="variables">
+				<Node name="datav3">
+					<Node name="var0">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3100"/>
+						</Node>
+						<Prp name="name" type="S" value="tcNum"/>
+					</Node>
+					<Node name="var1">
+						<Node name="value">
+							<Prp name="boolvalue" type="B" value="0"/>
+						</Node>
+						<Prp name="name" type="S" value="TRACE"/>
+					</Node>
+					<Node name="var10">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="5900"/>
+						</Node>
+						<Prp name="name" type="S" value="executeClaim"/>
+					</Node>
+					<Node name="var100">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="480049004700550045005900"/>
+						</Node>
+						<Prp name="name" type="S" value="pais"/>
+					</Node>
+					<Node name="var101">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="6E00"/>
+						</Node>
+						<Prp name="name" type="S" value="cerrarParaPago"/>
+					</Node>
+					<Node name="var102">
+						<Prp name="name" type="S" value="personalInfo"/>
+					</Node>
+					<Node name="var103">
+						<Prp name="name" type="S" value="addressInfo"/>
+					</Node>
+					<Node name="var104">
+						<Prp name="name" type="S" value="additionalAddressInfo"/>
+					</Node>
+					<Node name="var105">
+						<Prp name="name" type="S" value="telephoneInfo"/>
+					</Node>
+					<Node name="var106">
+						<Prp name="name" type="S" value="planInfo"/>
+					</Node>
+					<Node name="var107">
+						<Prp name="name" type="S" value="examenesMedicosInfo"/>
+					</Node>
+					<Node name="var108">
+						<Prp name="name" type="S" value="condicionesMedicasInfo"/>
+					</Node>
+					<Node name="var109">
+						<Prp name="name" type="S" value="medicamentosInfo"/>
+					</Node>
+					<Node name="var11">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="plan"/>
+					</Node>
+					<Node name="var110">
+						<Prp name="name" type="S" value="habitosInfo"/>
+					</Node>
+					<Node name="var111">
+						<Prp name="name" type="S" value="historialFamiliarInfo"/>
+					</Node>
+					<Node name="var112">
+						<Prp name="name" type="S" value="medicoFamiliaInfo"/>
+					</Node>
+					<Node name="var113">
+						<Prp name="name" type="S" value="additionalMedicalInfo"/>
+					</Node>
+					<Node name="var114">
+						<Prp name="name" type="S" value="beneficieryInfo"/>
+					</Node>
+					<Node name="var115">
+						<Prp name="name" type="S" value="dependentsQ"/>
+					</Node>
+					<Node name="var116">
+						<Prp name="name" type="S" value="mainMenuInfo"/>
+					</Node>
+					<Node name="var117">
+						<Prp name="name" type="S" value="TestList"/>
+					</Node>
+					<Node name="var12">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="tipoCoberturaFlag"/>
+					</Node>
+					<Node name="var13">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="fechaServico"/>
+					</Node>
+					<Node name="var14">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="63006C0069006E006900630061002F006C0061006200"/>
+						</Node>
+						<Prp name="name" type="S" value="tipoReclamante"/>
+					</Node>
+					<Node name="var15">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="630068006500710075006500"/>
+						</Node>
+						<Prp name="name" type="S" value="formaDePago"/>
+					</Node>
+					<Node name="var16">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="61006D00620075006C00610074006F00720069006F00"/>
+						</Node>
+						<Prp name="name" type="S" value="tipoServicio"/>
+					</Node>
+					<Node name="var17">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="tipoRemitente"/>
+					</Node>
+					<Node name="var18">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3200"/>
+						</Node>
+						<Prp name="name" type="S" value="listaDeTipo"/>
+					</Node>
+					<Node name="var19">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="7900"/>
+						</Node>
+						<Prp name="name" type="S" value="diagnosticCodeFlag"/>
+					</Node>
+					<Node name="var2">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="610061006700750061007300"/>
+						</Node>
+						<Prp name="name" type="S" value="username"/>
+					</Node>
+					<Node name="var20">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="32003800"/>
+						</Node>
+						<Prp name="name" type="S" value="qualityCode"/>
+					</Node>
+					<Node name="var21">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="7900"/>
+						</Node>
+						<Prp name="name" type="S" value="examineService"/>
+					</Node>
+					<Node name="var22">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="4300450052005200410044004100200050002F005000410047004F00"/>
+						</Node>
+						<Prp name="name" type="S" value="expectedEstatus"/>
+					</Node>
+					<Node name="var23">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="500045004E00440049004E00470020005100550041004C00490054005900200043004F004E00540052004F004C00"/>
+						</Node>
+						<Prp name="name" type="S" value="expectedRazon"/>
+					</Node>
+					<Node name="var24">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="500065006E00640069006E0067002000420061006E006B0020005400720061006E00730061006300740069006F006E00"/>
+						</Node>
+						<Prp name="name" type="S" value="expectedRazonAfterProcessing"/>
+					</Node>
+					<Node name="var25">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3900300037003200"/>
+						</Node>
+						<Prp name="name" type="S" value="diagnosticCode"/>
+					</Node>
+					<Node name="var26">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="310038003700"/>
+						</Node>
+						<Prp name="name" type="S" value="tipo"/>
+					</Node>
+					<Node name="var27">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="7900"/>
+						</Node>
+						<Prp name="name" type="S" value="coberturarDeSaludFlag"/>
+					</Node>
+					<Node name="var28">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3300"/>
+						</Node>
+						<Prp name="name" type="S" value="coberturarDeSaludTest"/>
+					</Node>
+					<Node name="var29">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3000340031003500"/>
+						</Node>
+						<Prp name="name" type="S" value="listaDeCoberturas"/>
+					</Node>
+					<Node name="var3">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="610061006700750061007300"/>
+						</Node>
+						<Prp name="name" type="S" value="password"/>
+					</Node>
+					<Node name="var30">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3800"/>
+						</Node>
+						<Prp name="name" type="S" value="descripicionDeServicio"/>
+					</Node>
+					<Node name="var31">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="6D0065006400690063006F00"/>
+						</Node>
+						<Prp name="name" type="S" value="tipoRecl"/>
+					</Node>
+					<Node name="var32">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3300"/>
+						</Node>
+						<Prp name="name" type="S" value="reclamante"/>
+					</Node>
+					<Node name="var33">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3200"/>
+						</Node>
+						<Prp name="name" type="S" value="frec"/>
+					</Node>
+					<Node name="var34">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="310030003000"/>
+						</Node>
+						<Prp name="name" type="S" value="claimAmount"/>
+					</Node>
+					<Node name="var35">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3000"/>
+						</Node>
+						<Prp name="name" type="S" value="descuento"/>
+					</Node>
+					<Node name="var36">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3000"/>
+						</Node>
+						<Prp name="name" type="S" value="montoGlosa"/>
+					</Node>
+					<Node name="var37">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3000"/>
+						</Node>
+						<Prp name="name" type="S" value="montoElegible"/>
+					</Node>
+					<Node name="var38">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="61006E006400720061006400650020002C0020006300610072006C006F007300"/>
+						</Node>
+						<Prp name="name" type="S" value="expectedMontoAPagar"/>
+					</Node>
+					<Node name="var39">
+						<Node name="value">
+							<Prp name="intvalue" type="I" value="0"/>
+						</Node>
+						<Prp name="name" type="S" value="totalTipoCob"/>
+					</Node>
+					<Node name="var4">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="5C005C0070006500720061005C0044006F00630075006D0065006E0074006F0073005C005400450053005400200045005800450043005500540045005C005500730075006100720069006F0073002000540043005C005500530055004100520049004F00300033005C00530070007200650061006400730068006500650074007300"/>
+						</Node>
+						<Prp name="name" type="S" value="path"/>
+					</Node>
+					<Node name="var40">
+						<Node name="value">
+							<Prp name="floatvalue" type="D" value="0"/>
+						</Node>
+						<Prp name="name" type="S" value="reclamadoTipoCob"/>
+					</Node>
+					<Node name="var41">
+						<Node name="value">
+							<Prp name="floatvalue" type="D" value="0"/>
+						</Node>
+						<Prp name="name" type="S" value="elegibeTipoCob"/>
+					</Node>
+					<Node name="var42">
+						<Node name="value">
+							<Prp name="floatvalue" type="D" value="0"/>
+						</Node>
+						<Prp name="name" type="S" value="montoGlasado"/>
+					</Node>
+					<Node name="var43">
+						<Node name="value">
+							<Prp name="floatvalue" type="D" value="0"/>
+						</Node>
+						<Prp name="name" type="S" value="aPagarTipoCob"/>
+					</Node>
+					<Node name="var44">
+						<Node name="value">
+							<Prp name="intvalue" type="I" value="0"/>
+						</Node>
+						<Prp name="name" type="S" value="totalCob"/>
+					</Node>
+					<Node name="var45">
+						<Node name="value">
+							<Prp name="floatvalue" type="D" value="0"/>
+						</Node>
+						<Prp name="name" type="S" value="totalReclamado"/>
+					</Node>
+					<Node name="var46">
+						<Node name="value">
+							<Prp name="floatvalue" type="D" value="0"/>
+						</Node>
+						<Prp name="name" type="S" value="totalElegibe"/>
+					</Node>
+					<Node name="var47">
+						<Node name="value">
+							<Prp name="floatvalue" type="D" value="0"/>
+						</Node>
+						<Prp name="name" type="S" value="totalAPagar"/>
+					</Node>
+					<Node name="var48">
+						<Node name="value">
+							<Prp name="floatvalue" type="D" value="0"/>
+						</Node>
+						<Prp name="name" type="S" value="difAsegurado"/>
+					</Node>
+					<Node name="var49">
+						<Node name="value">
+							<Prp name="floatvalue" type="D" value="0"/>
+						</Node>
+						<Prp name="name" type="S" value="totalDescuento"/>
+					</Node>
+					<Node name="var5">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="5C005C0070006500720061005C0064006F00630075006D0065006E0074006F0073005C004E0065007700200046006F006C006400650072005C0054006F0064006F00730020006C006F0073002E006200610074005C0054005400450053005400"/>
+						</Node>
+						<Prp name="name" type="S" value="saludcoreExecutable"/>
+					</Node>
+					<Node name="var50">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="4300450052005200410044004100200050002F005000410047004F00"/>
+						</Node>
+						<Prp name="name" type="S" value="retreivedEstatus"/>
+					</Node>
+					<Node name="var51">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="500045004E00440049004E0047002000420041004E004B0020005400520041004E00530041004300540049004F004E00"/>
+						</Node>
+						<Prp name="name" type="S" value="retreivedRazonEstatus"/>
+					</Node>
+					<Node name="var52">
+						<Node name="value">
+							<Prp name="intvalue" type="I" value="2013"/>
+						</Node>
+						<Prp name="name" type="S" value="claimNumber_1"/>
+					</Node>
+					<Node name="var53">
+						<Node name="value">
+							<Prp name="intvalue" type="I" value="1"/>
+						</Node>
+						<Prp name="name" type="S" value="claimNumber_2"/>
+					</Node>
+					<Node name="var54">
+						<Node name="value">
+							<Prp name="intvalue" type="I" value="1"/>
+						</Node>
+						<Prp name="name" type="S" value="claimNumber_3"/>
+					</Node>
+					<Node name="var55">
+						<Node name="value">
+							<Prp name="intvalue" type="I" value="901047"/>
+						</Node>
+						<Prp name="name" type="S" value="claimNumber_4"/>
+					</Node>
+					<Node name="var56">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="380030003100330037003600"/>
+						</Node>
+						<Prp name="name" type="S" value="poliza"/>
+					</Node>
+					<Node name="var57">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="asegurado"/>
+					</Node>
+					<Node name="var58">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="modoDeCaptura"/>
+					</Node>
+					<Node name="var59">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="41004D00420055004C0041004E0043004500"/>
+						</Node>
+						<Prp name="name" type="S" value="afiliadoMedicos"/>
+					</Node>
+					<Node name="var6">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3100"/>
+						</Node>
+						<Prp name="name" type="S" value="countryCode"/>
+					</Node>
+					<Node name="var60">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="320033003400"/>
+						</Node>
+						<Prp name="name" type="S" value="categoriasMedicos"/>
+					</Node>
+					<Node name="var61">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="repricingNetwork"/>
+					</Node>
+					<Node name="var62">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="320030003100"/>
+						</Node>
+						<Prp name="name" type="S" value="facturaNumber"/>
+					</Node>
+					<Node name="var63">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="6D0065006400690063006F00"/>
+						</Node>
+						<Prp name="name" type="S" value="tipoInsalacion"/>
+					</Node>
+					<Node name="var64">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="61006E006400720061006400650020002C0020006300610072006C006F007300"/>
+						</Node>
+						<Prp name="name" type="S" value="afiliadosMedicosInsta"/>
+					</Node>
+					<Node name="var65">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3600"/>
+						</Node>
+						<Prp name="name" type="S" value="lugarDeServicio"/>
+					</Node>
+					<Node name="var66">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="5200650076002E00200043006F0064006500"/>
+						</Node>
+						<Prp name="name" type="S" value="tipoProc"/>
+					</Node>
+					<Node name="var67">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="grouposCoberturar"/>
+					</Node>
+					<Node name="var68">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="47004D004D00"/>
+						</Node>
+						<Prp name="name" type="S" value="gruposCoberturar"/>
+					</Node>
+					<Node name="var69">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="estatus"/>
+					</Node>
+					<Node name="var7">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="6D006F0068007900360030006C0071003200"/>
+						</Node>
+						<Prp name="name" type="S" value="phrasekey"/>
+					</Node>
+					<Node name="var70">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="reasonEstatus"/>
+					</Node>
+					<Node name="var71">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="deductibleApplicable"/>
+					</Node>
+					<Node name="var72">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="2500"/>
+						</Node>
+						<Prp name="name" type="S" value="descuentoType"/>
+					</Node>
+					<Node name="var73">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="6E0063006D00"/>
+						</Node>
+						<Prp name="name" type="S" value="valores"/>
+					</Node>
+					<Node name="var74">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3000"/>
+						</Node>
+						<Prp name="name" type="S" value="negociacion"/>
+					</Node>
+					<Node name="var75">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="2500"/>
+						</Node>
+						<Prp name="name" type="S" value="negociacionType"/>
+					</Node>
+					<Node name="var76">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="applyDeductible"/>
+					</Node>
+					<Node name="var77">
+						<Prp name="name" type="S" value="examenesMedicosQ"/>
+					</Node>
+					<Node name="var78">
+						<Prp name="name" type="S" value="condicionesMedicasQ"/>
+					</Node>
+					<Node name="var79">
+						<Prp name="name" type="S" value="medicamentosQ"/>
+					</Node>
+					<Node name="var8">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="6E00"/>
+						</Node>
+						<Prp name="name" type="S" value="requireAdditionalData"/>
+					</Node>
+					<Node name="var80">
+						<Prp name="name" type="S" value="habitosQ"/>
+					</Node>
+					<Node name="var81">
+						<Prp name="name" type="S" value="historialFamiliarQ"/>
+					</Node>
+					<Node name="var82">
+						<Prp name="name" type="S" value="additionalMedicalQ"/>
+					</Node>
+					<Node name="var83">
+						<Prp name="name" type="S" value="medicoFamiliaQ"/>
+					</Node>
+					<Node name="var84">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="2000380030003100350037003100"/>
+						</Node>
+						<Prp name="name" type="S" value="PolicyNum"/>
+					</Node>
+					<Node name="var85">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="200020002000200020002000200034002C003400360031002E0030003000"/>
+						</Node>
+						<Prp name="name" type="S" value="policy_policyBalance"/>
+					</Node>
+					<Node name="var86">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3700300031003500"/>
+						</Node>
+						<Prp name="name" type="S" value="Codigo"/>
+					</Node>
+					<Node name="var87">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="44004F004D0049004E004900430041004E002000520045005000550042004C0049004300"/>
+						</Node>
+						<Prp name="name" type="S" value="region"/>
+					</Node>
+					<Node name="var88">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="41006E00750061006C00"/>
+						</Node>
+						<Prp name="name" type="S" value="PaymentSchedule"/>
+					</Node>
+					<Node name="var89">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="57004F0052004C004400410043004300450053005300"/>
+						</Node>
+						<Prp name="name" type="S" value="Product"/>
+					</Node>
+					<Node name="var9">
+						<Node name="value">
+							<Prp name="intvalue" type="I" value="10"/>
+						</Node>
+						<Prp name="name" type="S" value="MenuPrincipalItemCount"/>
+					</Node>
+					<Node name="var90">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="31002C00300030003000"/>
+						</Node>
+						<Prp name="name" type="S" value="Deductible"/>
+					</Node>
+					<Node name="var91">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value=" "/>
+						</Node>
+						<Prp name="name" type="S" value="payment_policyBalance"/>
+					</Node>
+					<Node name="var92">
+						<Prp name="name" type="S" value="Disponible"/>
+					</Node>
+					<Node name="var93">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="4E00"/>
+						</Node>
+						<Prp name="name" type="S" value="Validaciones"/>
+					</Node>
+					<Node name="var94">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="54005400450053005400"/>
+						</Node>
+						<Prp name="name" type="S" value="ambiente"/>
+					</Node>
+					<Node name="var95">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3000"/>
+						</Node>
+						<Prp name="name" type="S" value="polizas"/>
+					</Node>
+					<Node name="var96">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="7900"/>
+						</Node>
+						<Prp name="name" type="S" value="submitPolicy"/>
+					</Node>
+					<Node name="var97">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="6E00"/>
+						</Node>
+						<Prp name="name" type="S" value="payPolicy"/>
+					</Node>
+					<Node name="var98">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="4E004F00"/>
+						</Node>
+						<Prp name="name" type="S" value="Automatic"/>
+					</Node>
+					<Node name="var99">
+						<Prp name="name" type="S" value="paymentInfo"/>
+					</Node>
+				</Node>
+				<Prp name="version" type="I" value="3"/>
+			</Node>
+		</Node>
+		<Prp name="signature" type="S" value="{49FC0C30-9EF7-4DBD-97A8-B7A00E79A2AF}"/>
+	</Node>
+</Nodes>

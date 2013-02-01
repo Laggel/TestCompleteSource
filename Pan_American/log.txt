@@ -1,0 +1,4582 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 11:03:14 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23552	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    23.0 k    23.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1385411 Bytes/sec.
+   Speed :              79.273 MegaBytes/min.
+
+   Ended : Fri Dec 28 11:03:14 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 11:39:01 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23552	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    23.0 k    23.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1811692 Bytes/sec.
+   Speed :             103.665 MegaBytes/min.
+
+   Ended : Fri Dec 28 11:39:01 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 11:39:34 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23552	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    23.0 k    23.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2141090 Bytes/sec.
+   Speed :             122.514 MegaBytes/min.
+
+   Ended : Fri Dec 28 11:39:34 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 11:50:58 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23552	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    23.0 k    23.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1682285 Bytes/sec.
+   Speed :              96.261 MegaBytes/min.
+
+   Ended : Fri Dec 28 11:50:58 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 11:56:29 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23552	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    23.0 k    23.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1239578 Bytes/sec.
+   Speed :              70.929 MegaBytes/min.
+
+   Ended : Fri Dec 28 11:56:29 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 12:06:37 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         1         0         0         0
+   Bytes :    23.0 k         0    23.0 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+   Ended : Fri Dec 28 12:06:37 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 12:07:01 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23552	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    23.0 k    23.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1962666 Bytes/sec.
+   Speed :             112.304 MegaBytes/min.
+
+   Ended : Fri Dec 28 12:07:01 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 12:08:16 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Fri Dec 28 12:08:16 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 12:10:26 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Fri Dec 28 12:10:26 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 12:21:15 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   22528	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.0 k    22.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1732923 Bytes/sec.
+   Speed :              99.158 MegaBytes/min.
+
+   Ended : Fri Dec 28 12:21:15 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 14:53:13 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Fri Dec 28 14:53:13 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 14:54:00 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1047272 Bytes/sec.
+   Speed :              59.925 MegaBytes/min.
+
+   Ended : Fri Dec 28 14:54:00 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 14:57:36 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Fri Dec 28 14:57:36 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 15:47:50 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Fri Dec 28 15:47:51 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 15:57:23 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         1         0         0         0
+   Bytes :    22.5 k         0    22.5 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+   Ended : Fri Dec 28 15:57:23 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 16:08:46 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         1         0         0         0
+   Bytes :    22.5 k         0    22.5 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+   Ended : Fri Dec 28 16:08:46 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 16:14:31 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   24576	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    24.0 k    24.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1068521 Bytes/sec.
+   Speed :              61.141 MegaBytes/min.
+
+   Ended : Fri Dec 28 16:14:31 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 16:15:21 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   24576	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    24.0 k    24.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1890461 Bytes/sec.
+   Speed :             108.173 MegaBytes/min.
+
+   Ended : Fri Dec 28 16:15:21 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 16:17:41 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Fri Dec 28 16:17:41 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 16:18:45 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2304000 Bytes/sec.
+   Speed :             131.835 MegaBytes/min.
+
+   Ended : Fri Dec 28 16:18:45 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 16:38:40 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Fri Dec 28 16:38:40 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 16:41:22 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         1         0         0         0
+   Bytes :    22.5 k         0    22.5 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+   Ended : Fri Dec 28 16:41:22 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 16:45:49 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1536000 Bytes/sec.
+   Speed :              87.890 MegaBytes/min.
+
+   Ended : Fri Dec 28 16:45:49 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 16:49:18 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         1         0         0         0
+   Bytes :    22.5 k         0    22.5 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+   Ended : Fri Dec 28 16:49:18 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 16:50:48 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         1         0         0         0
+   Bytes :    22.5 k         0    22.5 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+   Ended : Fri Dec 28 16:50:48 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 16:55:58 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Fri Dec 28 16:55:58 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 16:56:54 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Fri Dec 28 16:56:54 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 17:03:21 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Fri Dec 28 17:03:21 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 17:07:15 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Fri Dec 28 17:07:15 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 17:10:49 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2304000 Bytes/sec.
+   Speed :             131.835 MegaBytes/min.
+
+   Ended : Fri Dec 28 17:10:49 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 17:16:25 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls
+2012/12/28 17:16:25 ERROR 32 (0x00000020) Copying File \\pera\Documentos\TCScripts\main_menu_config.xls
+The process cannot access the file because it is being used by another process.
+Waiting 30 seconds... Retrying...
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:30   0:00:00                       0:00:30   0:00:00
+
+
+   Speed :              794482 Bytes/sec.
+   Speed :              45.460 MegaBytes/min.
+
+   Ended : Fri Dec 28 17:16:55 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 17:17:22 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2304000 Bytes/sec.
+   Speed :             131.835 MegaBytes/min.
+
+   Ended : Fri Dec 28 17:17:22 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 17:20:58 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Fri Dec 28 17:20:58 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 17:23:28 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Fri Dec 28 17:23:28 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 28 17:26:34 2012
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Fri Dec 28 17:26:34 2012
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 09:28:42 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Wed Jan 02 09:28:42 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 09:29:47 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1536000 Bytes/sec.
+   Speed :              87.890 MegaBytes/min.
+
+   Ended : Wed Jan 02 09:29:47 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 09:30:39 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              576000 Bytes/sec.
+   Speed :              32.958 MegaBytes/min.
+
+   Ended : Wed Jan 02 09:30:39 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 09:32:21 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1440000 Bytes/sec.
+   Speed :              82.397 MegaBytes/min.
+
+   Ended : Wed Jan 02 09:32:21 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 09:34:29 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Wed Jan 02 09:34:29 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 09:44:10 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Wed Jan 02 09:44:10 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 09:49:19 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              960000 Bytes/sec.
+   Speed :              54.931 MegaBytes/min.
+
+   Ended : Wed Jan 02 09:49:19 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 09:50:43 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1355294 Bytes/sec.
+   Speed :              77.550 MegaBytes/min.
+
+   Ended : Wed Jan 02 09:50:43 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 09:52:09 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              548571 Bytes/sec.
+   Speed :              31.389 MegaBytes/min.
+
+   Ended : Wed Jan 02 09:52:09 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 09:53:08 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2304000 Bytes/sec.
+   Speed :             131.835 MegaBytes/min.
+
+   Ended : Wed Jan 02 09:53:08 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 09:54:04 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1536000 Bytes/sec.
+   Speed :              87.890 MegaBytes/min.
+
+   Ended : Wed Jan 02 09:54:04 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 09:55:14 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1536000 Bytes/sec.
+   Speed :              87.890 MegaBytes/min.
+
+   Ended : Wed Jan 02 09:55:14 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 09:57:29 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1536000 Bytes/sec.
+   Speed :              87.890 MegaBytes/min.
+
+   Ended : Wed Jan 02 09:57:29 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 10:01:29 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Wed Jan 02 10:01:29 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 10:03:06 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              698181 Bytes/sec.
+   Speed :              39.950 MegaBytes/min.
+
+   Ended : Wed Jan 02 10:03:06 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 10:06:14 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1280000 Bytes/sec.
+   Speed :              73.242 MegaBytes/min.
+
+   Ended : Wed Jan 02 10:06:14 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 10:50:20 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              853333 Bytes/sec.
+   Speed :              48.828 MegaBytes/min.
+
+   Ended : Wed Jan 02 10:50:20 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 10:51:31 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Wed Jan 02 10:51:31 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 10:54:55 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Wed Jan 02 10:54:55 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 10:56:17 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Wed Jan 02 10:56:17 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 10:57:19 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Wed Jan 02 10:57:19 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 10:57:53 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1440000 Bytes/sec.
+   Speed :              82.397 MegaBytes/min.
+
+   Ended : Wed Jan 02 10:57:53 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:03:27 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:03:27 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:05:08 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:05:08 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:09:01 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1212631 Bytes/sec.
+   Speed :              69.387 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:09:01 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:12:26 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1212631 Bytes/sec.
+   Speed :              69.387 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:12:26 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:16:20 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1355294 Bytes/sec.
+   Speed :              77.550 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:16:20 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:18:16 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1152000 Bytes/sec.
+   Speed :              65.917 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:18:16 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:21:42 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1097142 Bytes/sec.
+   Speed :              62.779 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:21:42 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:24:32 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:24:32 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:27:55 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1536000 Bytes/sec.
+   Speed :              87.890 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:27:55 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:38:02 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:38:02 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:42:43 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:42:43 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:44:16 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1440000 Bytes/sec.
+   Speed :              82.397 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:44:16 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:47:30 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1001739 Bytes/sec.
+   Speed :              57.319 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:47:30 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:49:09 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1536000 Bytes/sec.
+   Speed :              87.890 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:49:09 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:52:12 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1536000 Bytes/sec.
+   Speed :              87.890 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:52:12 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:55:32 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1355294 Bytes/sec.
+   Speed :              77.550 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:55:32 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 11:59:38 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Wed Jan 02 11:59:38 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 13:52:37 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1536000 Bytes/sec.
+   Speed :              87.890 MegaBytes/min.
+
+   Ended : Wed Jan 02 13:52:37 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 14:29:52 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Wed Jan 02 14:29:52 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 15:15:47 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Wed Jan 02 15:15:47 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 15:19:51 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Wed Jan 02 15:19:51 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 15:24:04 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1355294 Bytes/sec.
+   Speed :              77.550 MegaBytes/min.
+
+   Ended : Wed Jan 02 15:24:04 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 15:27:41 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1212631 Bytes/sec.
+   Speed :              69.387 MegaBytes/min.
+
+   Ended : Wed Jan 02 15:27:41 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 15:36:02 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Wed Jan 02 15:36:02 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 15:41:52 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1536000 Bytes/sec.
+   Speed :              87.890 MegaBytes/min.
+
+   Ended : Wed Jan 02 15:41:52 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 15:45:51 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Wed Jan 02 15:45:51 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 15:47:27 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1212631 Bytes/sec.
+   Speed :              69.387 MegaBytes/min.
+
+   Ended : Wed Jan 02 15:47:27 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 15:50:10 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1440000 Bytes/sec.
+   Speed :              82.397 MegaBytes/min.
+
+   Ended : Wed Jan 02 15:50:10 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 15:59:23 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1440000 Bytes/sec.
+   Speed :              82.397 MegaBytes/min.
+
+   Ended : Wed Jan 02 15:59:23 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 16:02:48 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1047272 Bytes/sec.
+   Speed :              59.925 MegaBytes/min.
+
+   Ended : Wed Jan 02 16:02:49 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 16:11:41 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Wed Jan 02 16:11:41 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 16:17:06 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1440000 Bytes/sec.
+   Speed :              82.397 MegaBytes/min.
+
+   Ended : Wed Jan 02 16:17:06 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 16:26:18 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1440000 Bytes/sec.
+   Speed :              82.397 MegaBytes/min.
+
+   Ended : Wed Jan 02 16:26:18 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 16:35:34 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1280000 Bytes/sec.
+   Speed :              73.242 MegaBytes/min.
+
+   Ended : Wed Jan 02 16:35:34 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Jan 02 16:39:56 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Wed Jan 02 16:39:56 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 09:02:04 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Thu Jan 03 09:02:04 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 09:05:57 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Thu Jan 03 09:05:57 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 09:08:30 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Thu Jan 03 09:08:30 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 09:14:21 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              853333 Bytes/sec.
+   Speed :              48.828 MegaBytes/min.
+
+   Ended : Thu Jan 03 09:14:21 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 09:16:18 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              886153 Bytes/sec.
+   Speed :              50.706 MegaBytes/min.
+
+   Ended : Thu Jan 03 09:16:18 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 09:18:25 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1001739 Bytes/sec.
+   Speed :              57.319 MegaBytes/min.
+
+   Ended : Thu Jan 03 09:18:25 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 09:24:35 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Thu Jan 03 09:24:35 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 09:31:12 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Thu Jan 03 09:31:12 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 09:44:45 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1440000 Bytes/sec.
+   Speed :              82.397 MegaBytes/min.
+
+   Ended : Thu Jan 03 09:44:46 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 09:57:12 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Thu Jan 03 09:57:12 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 10:06:23 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1152000 Bytes/sec.
+   Speed :              65.917 MegaBytes/min.
+
+   Ended : Thu Jan 03 10:06:23 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 10:10:44 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Thu Jan 03 10:10:44 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 10:49:42 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1440000 Bytes/sec.
+   Speed :              82.397 MegaBytes/min.
+
+   Ended : Thu Jan 03 10:49:42 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 10:55:48 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1440000 Bytes/sec.
+   Speed :              82.397 MegaBytes/min.
+
+   Ended : Thu Jan 03 10:55:48 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 10:58:35 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Thu Jan 03 10:58:35 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 11:03:52 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Thu Jan 03 11:03:52 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:01:23 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              960000 Bytes/sec.
+   Speed :              54.931 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:01:23 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:03:34 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1536000 Bytes/sec.
+   Speed :              87.890 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:03:34 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:05:15 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:05:15 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:06:46 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              698181 Bytes/sec.
+   Speed :              39.950 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:06:47 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:08:32 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:08:32 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:10:16 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1280000 Bytes/sec.
+   Speed :              73.242 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:10:16 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:22:36 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:22:36 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:25:09 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1152000 Bytes/sec.
+   Speed :              65.917 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:25:09 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:26:58 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              822857 Bytes/sec.
+   Speed :              47.084 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:26:58 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:30:55 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1440000 Bytes/sec.
+   Speed :              82.397 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:30:55 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:33:43 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1047272 Bytes/sec.
+   Speed :              59.925 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:33:43 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:39:43 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1152000 Bytes/sec.
+   Speed :              65.917 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:39:43 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:43:40 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:43:40 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:50:37 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:50:37 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 14:59:13 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1212631 Bytes/sec.
+   Speed :              69.387 MegaBytes/min.
+
+   Ended : Thu Jan 03 14:59:13 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 15:06:27 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              960000 Bytes/sec.
+   Speed :              54.931 MegaBytes/min.
+
+   Ended : Thu Jan 03 15:06:27 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 15:14:30 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1440000 Bytes/sec.
+   Speed :              82.397 MegaBytes/min.
+
+   Ended : Thu Jan 03 15:14:30 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 15:20:00 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1536000 Bytes/sec.
+   Speed :              87.890 MegaBytes/min.
+
+   Ended : Thu Jan 03 15:20:00 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 15:33:59 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Thu Jan 03 15:33:59 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 15:51:09 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Thu Jan 03 15:51:09 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 15:51:52 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Thu Jan 03 15:51:52 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 15:54:06 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Thu Jan 03 15:54:06 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:08:43 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :               64537 Bytes/sec.
+   Speed :               3.692 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:08:44 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:18:20 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:18:20 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:19:03 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1645714 Bytes/sec.
+   Speed :              94.168 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:19:03 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:21:01 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:21:01 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:24:35 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:24:35 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:30:21 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:30:21 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:31:35 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:31:35 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:32:49 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2304000 Bytes/sec.
+   Speed :             131.835 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:32:49 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:35:13 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:35:13 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:40:51 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:40:51 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:41:28 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:41:28 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:49:05 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1920000 Bytes/sec.
+   Speed :             109.863 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:49:05 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:50:27 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             2094545 Bytes/sec.
+   Speed :             119.850 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:50:27 2013
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 03 16:54:08 2013
+
+   Source : \\pera\Documentos\TCScripts\
+     Dest : C:\Users\Simetri\Desktop\SIMETRICA\Test Complete\Proyectos\Pan_American_Nov07\Pan_American\Pan_American\Stores\Files\
+
+    Files : main_menu_config.xls
+	    
+  Options : /COPY:DAT /XX /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	\\pera\Documentos\TCScripts\
+	    Newer     		   23040	main_menu_config.xls  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    22.5 k    22.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1772307 Bytes/sec.
+   Speed :             101.412 MegaBytes/min.
+
+   Ended : Thu Jan 03 16:54:08 2013

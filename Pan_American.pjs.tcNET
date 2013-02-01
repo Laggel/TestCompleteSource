@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="analiar">
+				<Node name="{d63362ea-4e86-4ec5-a6ec-fbc4395321f4}">
+					<Prp name="relpath" type="S" value="[ANALIAR]\Pan_american.pjs.tcLS"/>
+				</Node>
+				<Prp name="network mode answer" type="B" value="-1"/>
+				<Prp name="network mode value" type="B" value="-1"/>
+			</Node>
+			<Node name="calebd">
+				<Prp name="network mode answer" type="B" value="-1"/>
+				<Prp name="network mode value" type="B" value="0"/>
+			</Node>
+			<Node name="clarisar">
+				<Node name="{d63362ea-4e86-4ec5-a6ec-fbc4395321f4}">
+					<Prp name="relpath" type="S" value="[CLARISAR]\Pan_american.pjs.tcLS"/>
+				</Node>
+				<Prp name="network mode answer" type="B" value="-1"/>
+				<Prp name="network mode value" type="B" value="-1"/>
+			</Node>
+			<Node name="daibelys">
+				<Node name="{d63362ea-4e86-4ec5-a6ec-fbc4395321f4}">
+					<Prp name="relpath" type="S" value="[DAIBELYS]\Pan_american.pjs.tcLS"/>
+				</Node>
+				<Prp name="network mode answer" type="B" value="-1"/>
+				<Prp name="network mode value" type="B" value="-1"/>
+			</Node>
+			<Node name="estefanidc">
+				<Prp name="network mode answer" type="B" value="-1"/>
+				<Prp name="network mode value" type="B" value="0"/>
+			</Node>
+			<Node name="leibysm">
+				<Node name="{d63362ea-4e86-4ec5-a6ec-fbc4395321f4}">
+					<Prp name="relpath" type="S" value="[LEIBYSM]\Pan_american.pjs.tcLS"/>
+				</Node>
+				<Prp name="network mode answer" type="B" value="-1"/>
+				<Prp name="network mode value" type="B" value="-1"/>
+			</Node>
+			<Node name="luist">
+				<Prp name="network mode answer" type="B" value="-1"/>
+				<Prp name="network mode value" type="B" value="0"/>
+			</Node>
+			<Node name="yanildag">
+				<Prp name="network mode answer" type="B" value="-1"/>
+				<Prp name="network mode value" type="B" value="0"/>
+			</Node>
+		</Node>
+		<Prp name="signature" type="S" value="{1F41EABE-8BDF-4E45-9235-05A9BAFB8E9F}"/>
+	</Node>
+</Nodes>

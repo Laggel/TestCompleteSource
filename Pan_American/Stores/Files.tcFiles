@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="child list">
+			<Node name="item0000000000">
+				<Node name="item data">
+					<Node name="settings">
+						<Prp name="settingsversion" type="S" value="9.10"/>
+					</Node>
+					<Prp name="caption" type="S" value="pan_american_config_xls"/>
+					<Prp name="filename" type="S" value="Files\pan_american_config.xls"/>
+					<Prp name="id" type="S" value="{7D407F1A-EBB7-48DF-BCEF-510303E06EC3}"/>
+					<Prp name="signature" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+					<Prp name="update" type="B" value="-1"/>
+					<Prp name="version" type="S" value="9.0"/>
+				</Node>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="key" type="S" value="{7D407F1A-EBB7-48DF-BCEF-510303E06EC3}"/>
+				<Prp name="pluginname" type="S" value="Stores"/>
+				<Prp name="type" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+				<Prp name="typename" type="S" value="File"/>
+			</Node>
+			<Node name="item0000000001">
+				<Node name="item data">
+					<Node name="settings">
+						<Prp name="settingsversion" type="S" value="9.10"/>
+					</Node>
+					<Prp name="caption" type="S" value="pan_american_validation_xls"/>
+					<Prp name="filename" type="S" value="Files\pan_american_validation.xls"/>
+					<Prp name="id" type="S" value="{0E00A086-EB7F-47E3-99C2-C365ACF02F87}"/>
+					<Prp name="signature" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+					<Prp name="update" type="B" value="0"/>
+					<Prp name="version" type="S" value="9.0"/>
+				</Node>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="key" type="S" value="{0E00A086-EB7F-47E3-99C2-C365ACF02F87}"/>
+				<Prp name="pluginname" type="S" value="Stores"/>
+				<Prp name="type" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+				<Prp name="typename" type="S" value="File"/>
+			</Node>
+			<Node name="item0000000002">
+				<Node name="item data">
+					<Node name="settings">
+						<Prp name="settingsversion" type="S" value="9.10"/>
+					</Node>
+					<Prp name="caption" type="S" value="Rate_Table_all_modes_v20110310_xls"/>
+					<Prp name="filename" type="S" value="Files\Rate_Table_all_modes_v20110310_xls.xls"/>
+					<Prp name="id" type="S" value="{D40DDFA0-7641-414E-85FF-CE00C376ADC5}"/>
+					<Prp name="signature" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+					<Prp name="update" type="B" value="0"/>
+					<Prp name="version" type="S" value="9.0"/>
+				</Node>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="key" type="S" value="{D40DDFA0-7641-414E-85FF-CE00C376ADC5}"/>
+				<Prp name="pluginname" type="S" value="Stores"/>
+				<Prp name="type" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+				<Prp name="typename" type="S" value="File"/>
+			</Node>
+			<Node name="item0000000003">
+				<Node name="item data">
+					<Node name="settings">
+						<Prp name="settingsversion" type="S" value="9.10"/>
+					</Node>
+					<Prp name="caption" type="S" value="pan_american_claims_xls"/>
+					<Prp name="filename" type="S" value="Files\pan_american_claims.xls"/>
+					<Prp name="id" type="S" value="{42A934CD-D3E3-4FF0-BA00-776111D8AFF3}"/>
+					<Prp name="signature" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+					<Prp name="update" type="B" value="0"/>
+					<Prp name="version" type="S" value="9.0"/>
+				</Node>
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="key" type="S" value="{42A934CD-D3E3-4FF0-BA00-776111D8AFF3}"/>
+				<Prp name="pluginname" type="S" value="Stores"/>
+				<Prp name="type" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+				<Prp name="typename" type="S" value="File"/>
+			</Node>
+			<Node name="item0000000004">
+				<Node name="item data">
+					<Node name="settings">
+						<Prp name="settingsversion" type="S" value="9.10"/>
+					</Node>
+					<Prp name="caption" type="S" value="mainmenu_config_xls"/>
+					<Prp name="filename" type="S" value="Files\mainmenu_config.xls"/>
+					<Prp name="id" type="S" value="{B44BFFAC-1E04-4A91-B2F2-D7190A4F592D}"/>
+					<Prp name="signature" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+					<Prp name="update" type="B" value="-1"/>
+					<Prp name="version" type="S" value="9.0"/>
+				</Node>
+				<Prp name="index" type="I" value="4"/>
+				<Prp name="key" type="S" value="{B44BFFAC-1E04-4A91-B2F2-D7190A4F592D}"/>
+				<Prp name="pluginname" type="S" value="Stores"/>
+				<Prp name="type" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+				<Prp name="typename" type="S" value="File"/>
+			</Node>
+			<Node name="item0000000005">
+				<Node name="item data">
+					<Node name="settings">
+						<Prp name="settingsversion" type="S" value="9.10"/>
+					</Node>
+					<Prp name="caption" type="S" value="PALPortalDataout_xls"/>
+					<Prp name="filename" type="S" value="Files\PALPortalDataout.xls"/>
+					<Prp name="id" type="S" value="{1EE2FD38-766A-4FAC-AC7C-205E27CDBFB9}"/>
+					<Prp name="signature" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+					<Prp name="update" type="B" value="0"/>
+					<Prp name="version" type="S" value="9.0"/>
+				</Node>
+				<Prp name="index" type="I" value="5"/>
+				<Prp name="key" type="S" value="{1EE2FD38-766A-4FAC-AC7C-205E27CDBFB9}"/>
+				<Prp name="pluginname" type="S" value="Stores"/>
+				<Prp name="type" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+				<Prp name="typename" type="S" value="File"/>
+			</Node>
+			<Node name="item0000000006">
+				<Node name="item data">
+					<Node name="settings">
+						<Prp name="settingsversion" type="S" value="9.10"/>
+					</Node>
+					<Prp name="caption" type="S" value="saludcore_config_xls"/>
+					<Prp name="filename" type="S" value="Files\saludcore_config.xls"/>
+					<Prp name="id" type="S" value="{7D9D0B92-ABAF-4CBD-930C-89712CCD5FAB}"/>
+					<Prp name="signature" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+					<Prp name="update" type="B" value="0"/>
+					<Prp name="version" type="S" value="9.0"/>
+				</Node>
+				<Prp name="index" type="I" value="6"/>
+				<Prp name="key" type="S" value="{7D9D0B92-ABAF-4CBD-930C-89712CCD5FAB}"/>
+				<Prp name="pluginname" type="S" value="Stores"/>
+				<Prp name="type" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+				<Prp name="typename" type="S" value="File"/>
+			</Node>
+		</Node>
+		<Node name="folders">
+			<Node name="folders"/>
+		</Node>
+		<Node name="settings">
+			<Prp name="settingsversion" type="S" value="9.10"/>
+		</Node>
+		<Prp name="signature" type="S" value="{AA2F3067-5C9B-4CCF-89D4-1F93CE1C510F}"/>
+		<Prp name="version" type="S" value="9.0"/>
+	</Node>
+</Nodes>
